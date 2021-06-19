@@ -18,6 +18,8 @@ Implementation is done using regular Deep Neural Networks(DNN) and Convolutional
 
 # In CNN based Model:
 
+> All the below topics are discussed in the medium post, if you did refer the medium then you dont have to read the below theory.
+
 - We will load the training and testing images from MNIST first.
 - Then display them on to a grid so that we can have a chance to witness the vareity of digits in each class.
 - After that we'll need to prepare our data for training by reshaping it into specific format and then normalizing it.
