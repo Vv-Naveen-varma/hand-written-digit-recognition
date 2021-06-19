@@ -9,3 +9,9 @@ Implementation is done using regular Deep Neural Networks(DNN) and Convolutional
 ### Remainder:
 - All neural networks are referred as Artificial Neural Networks(ANN). The neural networks with more than one hidden layer are called Deep Neural Networks(DNN). Convolutional Neural Networks(CNN) are mainly used in image processing.
 
+## Executing the code:
+> CNN based digit recognition requires computational power, so use google colab for execution.
+- First install these files
+- Open Google colabs and open these files
+- Goto runtime->change runtime->select GPU here to use computational power.
+- Now run all cells. No need to install any libraries as google colab has preinstalled most of the python libraries that we use, in our case all libraries are preinstalled.
