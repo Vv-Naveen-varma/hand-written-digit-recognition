@@ -4,7 +4,7 @@ Implementation is done using regular Deep Neural Networks(DNN) and Convolutional
 > All concepts used are explained on [medium]()
 
 - for DNN based image classification program [click here](https://github.com/Vv-Naveen-varma/hand-written-digit-recognition/blob/cb280399743dd4649906d65e87decb13572f0d9a/digit_recognition_minist_deep_neural_network.ipynb)
-- for CNN based image classification program [click here](https://github.com/Vv-Naveen-varma/hand-written-digit-recognition/blob/a878f29577ebd184204037c06e588ae3bcb09623/digit_recognition_using_CNN_MNIST.ipynb)
+- for CNN based image classification program [click here](digit_recognition_using_CNN_MNIST.ipynb)
 
 ### Remainder:
 - All neural networks are referred as Artificial Neural Networks(ANN). The neural networks with more than one hidden layer are called Deep Neural Networks(DNN). Convolutional Neural Networks(CNN) are mainly used in image processing.
