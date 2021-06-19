@@ -15,3 +15,4 @@ Implementation is done using regular Deep Neural Networks(DNN) and Convolutional
 - Open Google colabs and open these files
 - Goto runtime->change runtime->select GPU here to use computational power.
 - Now run all cells. No need to install any libraries as google colab has preinstalled most of the python libraries that we use, in our case all libraries are preinstalled.
+
