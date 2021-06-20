@@ -1,9 +1,9 @@
 # Hand written digit recognition using Neural Networks
-https://naveen-varma.medium.com/convolutional-neural-networks-cnn-concepts-p-5-9abc6e733bcc
+
 https://naveen-varma.medium.com/hand-written-digit-recognition-using-deep-neural-networks-with-mnist-dataset-p-4-635bf20cb5e1
 Implementation is done using regular Deep Neural Networks(DNN) and Convolutional Neural Networks(CNN). First observe how DNN based model works and then start learning CNN based model to get a better understanding of our model.
 > All concepts used in DNN model are explained on [medium]()
-> CNN concepts can be found [here]()
+> CNN concepts can be found [here](https://naveen-varma.medium.com/convolutional-neural-networks-cnn-concepts-p-5-9abc6e733bcc)
 > Detailed explanation of CNN model code is [here]()
 
 - for DNN based image classification program [click here](digit_recognition_minist_deep_neural_network.ipynb)
