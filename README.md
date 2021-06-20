@@ -13,7 +13,7 @@ Implementation is done using regular Deep Neural Networks(DNN) and Convolutional
 ### Remainder:
 - All neural networks are referred as Artificial Neural Networks(ANN). The neural networks with more than one hidden layer are called Deep Neural Networks(DNN). Convolutional Neural Networks(CNN) are mainly used in image processing.
 
-## Executing the code:
+## Executing the code: (I recommend Google colabs)
 > CNN based digit recognition requires computational power, so use google colab for execution.
 - First install these files
 - Open Google colabs and open these files
