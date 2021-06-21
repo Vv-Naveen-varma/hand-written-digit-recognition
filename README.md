@@ -5,7 +5,7 @@ Implementation is done using regular Deep Neural Networks(DNN) and Convolutional
 
 > CNN concepts can be found [here](https://naveen-varma.medium.com/convolutional-neural-networks-cnn-concepts-p-5-9abc6e733bcc)
 
-> Detailed explanation of CNN model code is [here]()
+> Detailed explanation of CNN model code is [here](https://naveen-varma.medium.com/hand-written-digit-recognition-using-convolutional-neural-networks-cnn-on-mnist-dataset-p-6-1beb90df869b)
 
 - for DNN based image classification program [click here](digit_recognition_minist_deep_neural_network.ipynb)
 - for CNN based image classification program [click here](digit_recognition_using_CNN_MNIST.ipynb)
