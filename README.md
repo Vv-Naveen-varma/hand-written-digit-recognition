@@ -3,7 +3,7 @@
 Implementation is done using regular Deep Neural Networks(DNN) and Convolutional Neural Networks(CNN). First observe how DNN based model works and then start learning CNN based model to get a better understanding of our model.
 > All concepts used in DNN model are explained on [medium](https://naveen-varma.medium.com/hand-written-digit-recognition-using-deep-neural-networks-with-mnist-dataset-p-4-635bf20cb5e1)
 
-> CNN concepts can be found [here](https://naveen-varma.medium.com/convolutional-neural-networks-cnn-concepts-p-5-9abc6e733bcc)
+> CNN concepts can be found on [medium](https://naveen-varma.medium.com/convolutional-neural-networks-cnn-concepts-p-5-9abc6e733bcc)
 
 > Detailed explanation of CNN model code is [here](https://naveen-varma.medium.com/hand-written-digit-recognition-using-convolutional-neural-networks-cnn-on-mnist-dataset-p-6-1beb90df869b)
 
